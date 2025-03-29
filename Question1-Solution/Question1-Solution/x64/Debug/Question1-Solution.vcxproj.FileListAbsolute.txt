@@ -1,0 +1,2 @@
+C:\Users\daevo\Source\Repos\x64\Debug\Question1-Solution.exe.lastcodeanalysissucceeded
+C:\Users\daevo\source\repos\Chapter3-Programming\Question1-Solution\Question1-Solution\x64\Debug\NativeCodeAnalysis.read.1.tlog
